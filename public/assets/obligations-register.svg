@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#F9FAFB"/>
+  <rect x="30" y="30" width="740" height="440" rx="12" fill="#fff" stroke="#DDE3EA"/>
+  <text x="60" y="70" fill="#0D1321" font-family="Inter,sans-serif" font-size="18" font-weight="600">Obligations Register</text>
+  <rect x="60" y="90" width="680" height="36" rx="4" fill="#F9FAFB"/>
+  <rect x="60" y="140" width="680" height="28" rx="4" fill="#F9FAFB"/>
+  <rect x="60" y="178" width="680" height="28" rx="4" fill="#F9FAFB"/>
+  <rect x="60" y="216" width="680" height="28" rx="4" fill="#F9FAFB"/>
+  <rect x="620" y="148" width="80" height="14" rx="7" fill="#06B6D4" opacity="0.3"/>
+  <text x="400" y="470" text-anchor="middle" fill="#5A6878" font-family="Inter,sans-serif" font-size="14">Obligations Register Placeholder</text>
+</svg>

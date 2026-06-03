@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F9FAFB"/>
+  <rect x="40" y="40" width="720" height="520" rx="16" fill="#fff" stroke="#DDE3EA"/>
+  <rect x="60" y="60" width="200" height="24" rx="4" fill="#9333EA" opacity="0.2"/>
+  <rect x="60" y="100" width="680" height="40" rx="6" fill="#F9FAFB"/>
+  <rect x="60" y="160" width="680" height="32" rx="4" fill="#F9FAFB"/>
+  <rect x="60" y="204" width="680" height="32" rx="4" fill="#F9FAFB"/>
+  <rect x="60" y="248" width="680" height="32" rx="4" fill="#F9FAFB"/>
+  <rect x="580" y="168" width="60" height="16" rx="8" fill="#22C55E" opacity="0.3"/>
+  <rect x="580" y="212" width="60" height="16" rx="8" fill="#EAB308" opacity="0.3"/>
+  <rect x="580" y="256" width="60" height="16" rx="8" fill="#EF4444" opacity="0.3"/>
+  <text x="400" y="560" text-anchor="middle" fill="#5A6878" font-family="Inter,sans-serif" font-size="14">Hero Dashboard Placeholder</text>
+</svg>
